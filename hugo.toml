@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jk123jkl.github.io/'
 languageCode = 'en-us'
 title = '123jk Site'
 theme = 'hello-friend-ng'
@@ -20,7 +20,7 @@ paginate     = 10
   enableSharingButtons = true
 
   # Show a global language switcher in the navigation bar
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu =false 
 
   # Metadata mostly used in document's head
   description = "Test"
@@ -38,10 +38,10 @@ paginate     = 10
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.en.params]
-    subtitle  = "aaaaaa"
+    subtitle  = "yes"
 
     [languages.en.params.logo]
-      logoText = "123jk's site"
+      logoText = "123jk"
       logoHomeLink = "/"
     # or
     #
@@ -53,3 +53,8 @@ paginate     = 10
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
