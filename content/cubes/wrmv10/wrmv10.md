@@ -9,6 +9,9 @@ draft = true
 I have benn maining the v9 for almost half a month. It has become one of my favorite 3x3 this generation
 
 
+## Out of the box
+
+
 ## Setup
 
 Tension:
@@ -28,4 +31,4 @@ Compared to my v9, the v10
 
 ## Conclution
 
-
+Well this is now 
