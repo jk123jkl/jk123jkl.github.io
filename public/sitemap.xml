@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-06-04T13:17:30+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cubes/wrmv10/</loc>
+    <lastmod>2024-06-04T13:17:30+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blogs/</loc>
     <lastmod>2024-05-30T13:49:52+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-30T13:47:35+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blogs/help/</loc>
     <lastmod>2024-05-30T13:47:35+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cubes/wrmvten/</loc>
-    <lastmod>2024-05-30T13:46:59+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cubes/</loc>
     <lastmod>2024-05-30T13:21:42+08:00</lastmod>

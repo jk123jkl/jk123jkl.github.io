@@ -57,7 +57,7 @@ paginate     = 10
   [[menu.main]]
     identifier = "blogs"
     name       = "Blog"
-    url        = "/blogs"
+    url        = "/posts"
 
   [[menu.main]]
     identifier = "cubes"
